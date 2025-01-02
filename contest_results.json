@@ -1,0 +1,42 @@
+{
+    "contest_id": "6764e5d77d7bfbb25a86bf4c",
+    "student_id": "673c414f4e69589146a97a18",
+    "results": [
+        {
+            "problemId": 1,
+            "submitted": true,
+            "result": "Correct",
+            "evaluations": [
+                "Success",
+                "Success"
+            ]
+        },
+        {
+            "problemId": 2,
+            "submitted": true,
+            "result": "Correct",
+            "evaluations": [
+                "Success",
+                "Success"
+            ]
+        },
+        {
+            "problemId": 3,
+            "submitted": true,
+            "result": "Correct",
+            "evaluations": [
+                "Success",
+                "Success"
+            ]
+        },
+        {
+            "problemId": 4,
+            "submitted": true,
+            "result": "Wrong",
+            "evaluations": [
+                "Failure",
+                "Failure"
+            ]
+        }
+    ]
+}

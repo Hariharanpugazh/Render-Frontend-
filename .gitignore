@@ -1,0 +1,6 @@
+.streamlit
+test.csv
+test_cases.csv
+*.pyc
+
+mcq
